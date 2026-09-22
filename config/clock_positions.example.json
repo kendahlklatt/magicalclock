@@ -1,0 +1,16 @@
+{
+  "person1": {
+    "Home": 4500,
+    "Work": 4800,
+    "Adventure": 5100,
+    "Mortal Peril": 5400,
+    "In Transit": 5700
+  },
+  "person2": {
+    "Home": 4500,
+    "Work": 4800,
+    "Adventure": 5100,
+    "Mortal Peril": 5400,
+    "In Transit": 5700
+  }
+}
