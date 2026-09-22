@@ -1,0 +1,37 @@
+# PRIVATE CONFIGURATION
+zones.geojson
+**/zones.geojson
+
+clock_positions.json
+**/clock_positions.json
+
+# Secrets
+.env
+.env.*
+*.env
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Runtime files
+*.log
+*.pid
+state.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+servoenv/
+
+# Editor / operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
