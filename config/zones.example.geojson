@@ -1,4 +1,24 @@
 {
-"type": "FeatureCollection",
-"features": []
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "person": "person1",
+        "zone": "home"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-100.001, 40.001],
+            [-99.999, 40.001],
+            [-99.999, 39.999],
+            [-100.001, 39.999],
+            [-100.001, 40.001]
+          ]
+        ]
+      }
+    }
+  ]
 }
