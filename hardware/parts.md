@@ -7,6 +7,7 @@ this is the working bill of materials for the four-hand prototype!!!
 | component | quantity | notes |
 |---|---:|---|
 | raspberry pi | 1 | zero 2 w or another wifi-capable raspberry pi |
+| microsd card | 1 | 16 gb minimum, 32 gb recommended, class 10 or better |
 | pca9685 servo driver | 1 | 16-channel i2c pwm controller |
 | jx w5513 / sw5513-6ma servo | 4 | 25t spline sail winch servo |
 | 32t servo gear | 4 | mounted to servo output |
