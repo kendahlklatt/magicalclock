@@ -1,6 +1,8 @@
-# parts list
-https://www.amazon.com/shop/kennymoonie/list/1XLCDN1E04LIO?ref_=aipsflist&tag=kennymoonie-20
+## Parts List
 
+🛒 [Shop the parts I used on Amazon](https://www.amazon.com/shop/kennymoonie/list/1XLCDN1E04LIO?ref_=aipsflist&tag=kennymoonie-20)
+
+As an Amazon Associate, I earn from qualifying purchases.
 this is the working bill of materials for the four-hand prototype!!!
 
 (exact parts may change as the mechanism continues to be refined)
