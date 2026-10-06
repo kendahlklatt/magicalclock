@@ -1,4 +1,5 @@
 # parts list
+https://www.amazon.com/shop/kennymoonie/list/1XLCDN1E04LIO?ref_=aipsflist&tag=kennymoonie-20
 
 this is the working bill of materials for the four-hand prototype!!!
 
