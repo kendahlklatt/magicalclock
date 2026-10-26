@@ -55,3 +55,11 @@ helpful tools include
 the project does not depend on the exact donor clock
 
 servo, gear, tubing, hub, and mounting choices may also be changed as long as each hand can rotate independently and the servo can reach all required clock positions
+
+## Parts for UK Friends
+Servo motors: https://howesmodels.co.uk/product/6-turn-standard-size-drum-winch-metal-geared
+Tubing: https://www.cornwallmodelboats.co.uk/acatalog/K-S-Aluminium-Telescopic-Tubing-Assortment-KNS3403.html
+25T: https://www.ebay.co.uk/itm/263283372008
+https://shop.sb-components.co.uk/products/metal-servo-round-hornsets-spline-25t-fk-rp-001
+
+
